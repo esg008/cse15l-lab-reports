@@ -1,6 +1,7 @@
 ![](cd.png)
 Command `cd with no arguement:
 * Absolute Path is /home/codespaces/lecture1
+* 
 Command `cd with path to directory:
 *
 Command `cd with path to file:
