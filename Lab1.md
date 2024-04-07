@@ -13,7 +13,7 @@ Command `ls with path to directory:
 Command `ls with path to file:
 
 ![](caterror.png)
-Command `cat with no arguement:
+Command `cat` with no arguement:
 
 
 ![](cat.png)
