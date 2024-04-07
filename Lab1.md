@@ -18,7 +18,7 @@ Command `cat` with no arguement:
 
 ![](cat.png)
 
-Command `cat with path to directory:
+Command `cat` with path to directory:
 *
-Command `cat with path to file:
+Command `cat` with path to file:
 
