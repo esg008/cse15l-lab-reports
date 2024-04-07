@@ -1,4 +1,4 @@
-# Welcome to Learning *Basic Markdown Syntax*!
+## Welcome to Learning Basic Markdown Syntax!
 
 A few things I learned about Markdown Sytax:
 * One of the first things I learned was how to make somthing **bold**.
