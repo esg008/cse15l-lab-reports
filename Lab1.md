@@ -15,11 +15,11 @@
 # `ls` 
 ![](ls.png)
 
-*Command `ls with no arguement:
+* Command `ls with no arguement:
   - Absolute Path: /home/codespaces/lecture1
   - We are in the lecture1 directory, simply using the `ls command we get to see all files or folders in this directory.
   - There is no error.
-*Command `ls with path to directory:
+* Command `ls with path to directory:
   - Absolute Path: /home/codespaces/lecture1
   - So using the `ls command with the directory listed all files within the messages folder which are the txt. files. 
   - There is no error.
