@@ -1,16 +1,16 @@
 # `cd` 
 ![](cd.png)
-* Command `cd with no arguement:
+* Command `cd with **no arguement**:
   - Absolute Path: /workspaces/lecture1
   - Since there was no arguements following the `cd command, it took us back to the home directory.
   - There is no error.
-* Command `cd with path to directory:
+* Command `cd with **path to directory**:
   - Absolute Path: /home/codespace
   - The `cd command changes the directory to the given path which was lecture1. There was no error because "lecture1" is a file.
   - There is no error.
-* Command `cd with path to file:
+* Command `cd with **path to file**:
   - Absolute path: /home/codespace/lecture1
-  - 
+  - We received an error because the file is not a directory. The command only works with directorys not files.
     
 # `ls` 
 ![](ls.png)
