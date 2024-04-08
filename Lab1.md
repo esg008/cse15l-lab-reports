@@ -16,6 +16,7 @@
 ![](ls.png)
 *Command `ls with no arguement:
   - Absolute Path is /home/codespaces/lecture1
+  - 
 *Command `ls with path to directory:
   - 
 * Command `ls with path to file:
