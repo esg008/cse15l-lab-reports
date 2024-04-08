@@ -43,6 +43,6 @@
 
 * Command `cat` with **path to file**:
   - Absolute Path: /home/codespaces/lecture1
-  - Here, since the files we are trying to acces is not in the lectures1 directory it outputs an error.
+  - Here, since the file we are trying to acces is not in the lectures1 directory it outputs an error.
   - This is an error because in order to acces the content of the file we would have to have to use an absolute path as mentioned above or change the directory to messages.
 
