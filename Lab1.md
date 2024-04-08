@@ -1,29 +1,30 @@
 # `cd` 
 ![](cd.png)
-* Command `cd with **no arguement**:
+
+* Command `cd` with **no arguement**:
   - Absolute Path: /workspaces/lecture1
-  - Since there was no arguements following the `cd command, it took us back to the home directory.
+  - Since there was no arguements following the `cd` command, it took us back to the home directory.
   - There is no error.
-* Command `cd with **path to directory**:
+* Command `cd` with **path to directory**:
   - Absolute Path: /home/codespace
-  - The `cd command changes the directory to the given path which was lecture1.
+  - The `cd` command changes the directory to the given path which was lecture1.
   - There is no error.
-* Command `cd with **path to file**:
+* Command `cd` with **path to file**:
   - Absolute path: /home/codespace/lecture1
   - We received an error because the file is not a directory. The command only works with directorys not files.
     
 # `ls` 
 ![](ls.png)
 
-* Command `ls with **no arguement**:
+* Command `ls` with **no arguement**:
   - Absolute Path: /home/codespaces/lecture1
-  - We are in the lecture1 directory, simply using the `ls command we get to see all files or folders in this directory.
+  - We are in the lecture1 directory, simply using the `ls` command we get to see all files or folders in this directory.
   - There is no error.
-* Command `ls with **path to directory**:
+* Command `ls` with **path to directory**:
   - Absolute Path: /home/codespaces/lecture1
-  - So using the `ls command with the directory listed all files within the messages folder which are the txt. files. 
+  - So using the `ls` command with the directory listed all files within the messages folder which are the txt. files. 
   - There is no error.
-* Command `ls with **path to file**:
+* Command `ls` with **path to file**:
   - Absolute Path: /home/codespaces/lecture1
   - Once again the command lists files or folders from a given directory path. In this case we tried a file that is not in the current directory which resulted in an error. We would have to change the directory to messages to acces the list of the certain file.
 
@@ -31,7 +32,8 @@
 ![](caterror.png)
 * Command `cat` with **no arguement**:
   - Absolute Path: /home/codespaces/lecture1
-  - There is not output if we just type the `cat`
+  - There is not output if we just type the `cat` with no arguement.
+  - The output is an error because it didn't output anything.
 
 
 ![](cat.png)
