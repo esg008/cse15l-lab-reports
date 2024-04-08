@@ -39,9 +39,10 @@
 
 * Command `cat` with **path to directory**:
   - Absolute Path: /home/codespaces/lecture1
-  - 
+  - The command is supposed to print out the contents of the files from the given paths. This was error because the argument "messages" is a directory and not a file. If we wanted to acces the contents of the file we would have to do "messages/en-us.txt".
 
 * Command `cat` with **path to file**:
   - Absolute Path: /home/codespaces/lecture1
-  - 
+  - Here, since the files we are trying to acces is not in the lectures1 directory it outputs an error.
+  - This is an error because in order to acces the content of the file we would have to have to use an absolute path as mentioned above or change the directory to messages.
 
