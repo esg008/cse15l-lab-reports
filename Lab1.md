@@ -14,6 +14,7 @@
     
 # `ls` 
 ![](ls.png)
+
 *Command `ls with no arguement:
   - Absolute Path: /home/codespaces/lecture1
   - We are in the lecture1 directory, simply using the `ls command we get to see all files or folders in this directory.
