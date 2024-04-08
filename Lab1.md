@@ -15,26 +15,28 @@
 # `ls` 
 ![](ls.png)
 
-* Command `ls with no arguement:
+* Command `ls with **no arguement**:
   - Absolute Path: /home/codespaces/lecture1
   - We are in the lecture1 directory, simply using the `ls command we get to see all files or folders in this directory.
   - There is no error.
-* Command `ls with path to directory:
+* Command `ls with **path to directory**:
   - Absolute Path: /home/codespaces/lecture1
   - So using the `ls command with the directory listed all files within the messages folder which are the txt. files. 
   - There is no error.
-* Command `ls with path to file:
+* Command `ls with **path to file**:
   - Absolute Path: /home/codespaces/lecture1
-  - Once again the command lists files or folders from a given directory path. In this case we tried a file that is not in the current directory which resulted in an error. We would have to change the directory ro messages to acces the list of the certain file.
+  - Once again the command lists files or folders from a given directory path. In this case we tried a file that is not in the current directory which resulted in an error. We would have to change the directory to messages to acces the list of the certain file.
 
 # `cat` 
 ![](caterror.png)
-Command `cat` with no arguement:
+* Command `cat` with **no arguement**:
+  - Absolute Path: /home/codespaces/lecture1
+  - There is not output if we just type the `cat`
 
 
 ![](cat.png)
 
-* Command `cat` with path to directory:
+* Command `cat` with **path to directory**:
 
-* Command `cat` with path to file:
+* Command `cat` with **path to file**:
 
