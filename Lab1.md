@@ -6,7 +6,7 @@
   - There is no error.
 * Command `cd with **path to directory**:
   - Absolute Path: /home/codespace
-  - The `cd command changes the directory to the given path which was lecture1. There was no error because "lecture1" is a file.
+  - The `cd command changes the directory to the given path which was lecture1.
   - There is no error.
 * Command `cd with **path to file**:
   - Absolute path: /home/codespace/lecture1
@@ -15,11 +15,16 @@
 # `ls` 
 ![](ls.png)
 *Command `ls with no arguement:
-  - Absolute Path is /home/codespaces/lecture1
-  - 
+  - Absolute Path: /home/codespaces/lecture1
+  - We are in the lecture1 directory, simply using the `ls command we get to see all files or folders in this directory.
+  - There is no error.
 *Command `ls with path to directory:
-  - 
+  - Absolute Path: /home/codespaces/lecture1
+  - So using the `ls command with the directory listed all files within the messages folder which are the txt. files. 
+  - There is no error.
 * Command `ls with path to file:
+  - Absolute Path: /home/codespaces/lecture1
+  - Once again the command lists files or folders from a given directory path. In this case we tried a file that is not in the current directory which resulted in an error. We would have to change the directory ro messages to acces the list of the certain file.
 
 # `cat` 
 ![](caterror.png)
