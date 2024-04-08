@@ -1,5 +1,5 @@
 ![](cd.png)
-* `cd` command 
+# `cd` command 
 * Command `cd with no arguement:
   - Absolute Path: /workspaces/lecture1
 * Command `cd with path to directory:
