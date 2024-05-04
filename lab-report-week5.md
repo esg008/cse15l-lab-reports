@@ -1,14 +1,5 @@
 # Part 1: Bugs
 
-**Chosen Bug:** 
-```java
-  static void reverseInPlace(int[] arr) {
-    for(int i = 0; i < arr.length; i += 1) {
-      arr[i] = arr[arr.length - i - 1];
-    }
-  }
-```
-
 
 * Failure-inducing input
   ```java
@@ -28,6 +19,17 @@
     assertArrayEquals(new int []{10}, input);
   }
   ```
+
+![](ArrayListTest-SS.png)
+
+  **Chosen Bug:** 
+```java
+  static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = arr[arr.length - i - 1];
+    }
+  }
+```
   
   
 
