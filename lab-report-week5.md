@@ -20,9 +20,8 @@
   }
   ```
 
-![](ArrayListTest-SS.png)
+<img src="ArrayListTest-SS.png" alt="Test Results" width="400"/>
 
-<img src="ArrayListTest-SS.png" alt="Test Results" width="200"/>
   **Chosen Bug:** 
 ```
   static void reverseInPlace(int[] arr) {
