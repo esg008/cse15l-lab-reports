@@ -1,6 +1,6 @@
 # Part 1: Bugs
 
-## Chosen bug 
+**Chosen Bug:** 
 ```java
   static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length; i += 1) {
@@ -8,6 +8,8 @@
     }
   }
 ```
+
+
 * Failure-inducing input
   ```java
     @Test
@@ -17,7 +19,7 @@
     assertArrayEquals(new int []{4,3,2,1}, input);
   }
   ```
-  * Input that doesn'y induce failure
+* Input that doesn't induce failure
   ```java
   @Test
   public void testSecondReverseInPlace2(){
