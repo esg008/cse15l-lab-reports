@@ -22,11 +22,24 @@
 
 <img src="ArrayListTest-SS.png" alt="Test Results" width="550"/>
 
-  **Chosen Bug:** 
+**Chosen Bug:** 
+* Before
 ```java
   static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length; i += 1) {
       arr[i] = arr[arr.length - i - 1];
+    }
+  }
+```
+* After
+```java
+static void reverseInPlace(int[] arr) {
+    int[] copy = new int[arr.length];
+    for(int i = 0; i <copy.length; i +=1){
+      copy[i] = arr[i];
+    }
+    for(int i = 0; i < arr.length; i +=1){
+      arr[i] = copy[arr.length - i - 1];
     }
   }
 ```
