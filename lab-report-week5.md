@@ -20,10 +20,10 @@
   }
   ```
 
-<img src="ArrayListTest-SS.png" alt="Test Results" width="400"/>
+<img src="ArrayListTest-SS.png" alt="Test Results" width="550"/>
 
   **Chosen Bug:** 
-```
+```java
   static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length; i += 1) {
       arr[i] = arr[arr.length - i - 1];
