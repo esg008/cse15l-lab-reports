@@ -43,6 +43,8 @@ static void reverseInPlace(int[] arr) {
     }
   }
 ```
+
+- The first implementation would modify the array in the loop which ended up just replacing the first values with the ending values. The fix creates a new copy of the original array that stores original values before reversing. Then iterates through the second copy to effectively reverse the order.
   
   
 
