@@ -13,7 +13,7 @@
 * Failure-inducing input
   ```java
     @Test
-  public void testSecondReverseInPlace(){
+  public void testReverseInPlace(){
     int [] input = {1,2,3,4};
     ArrayExamples.reverseInPlace(input);
     assertArrayEquals(new int []{4,3,2,1}, input);
@@ -33,11 +33,4 @@
 
 
 
-```java
-@Test
-  public void testSecondReverseInPlace(){
-    int [] input = {1,2,3,4};
-    ArrayExamples.reverseInPlace(input);
-    assertArrayEquals(new int []{4,3,2,1}, input);
-  }
-```
+
