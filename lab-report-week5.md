@@ -22,12 +22,7 @@
 
 ![](ArrayListTest-SS.png)
 
-<figure>
-    <img src="/assets/images/albuquerque.jpg"
-         alt="Albuquerque, New Mexico">
-    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
-</figure>
-
+<img src="ArrayListTest-SS.png" alt="Test Results" width="200"/>
   **Chosen Bug:** 
 ```
   static void reverseInPlace(int[] arr) {
