@@ -48,7 +48,7 @@ static void reverseInPlace(int[] arr) {
 
 # Part 2: Researching Commands
 
-**`grep`**
+## **`grep` command**
 
  ```
 $ grep -c Honored grep-gov.txt
@@ -64,7 +64,7 @@ government/About_LSC/CONFIG_STANDARDS.txt:103
 .....
 ```
 
-  - This command `grep -c` is searching for files that have the goven string and counts its occurences.
+  - This command `grep -c` is searching for files that have the given string and counts its occurences.
  
 ```
 $ grep -w "household" media-gov.txt
