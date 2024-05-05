@@ -53,20 +53,24 @@ static void reverseInPlace(int[] arr) {
  ```$ grep -c Honored grep-gov.txt
   1```
 
- ```$ grep -r -c "and" government
+ ```
+$ grep -r -c "and" government
 government/About_LSC/Comments_on_semiannual.txt:113
 government/About_LSC/commission_report.txt:703       
 government/About_LSC/conference_highlights.txt:89    
 government/About_LSC/CONFIG_STANDARDS.txt:103
-.....```
+.....
+```
 
   - This command `grep -c` is searching for files that have the goven string and counts its appearances.
  
 
 
 
- ```$ grep -w "household" media-gov.txt
-government/Gen_Account_Office/d01591sp.txt:Median elderly household income (dollars)```
+```
+$ grep -w "household" media-gov.txt
+government/Gen_Account_Office/d01591sp.txt:Median elderly household income (dollars)
+```
 
  ```$ grep -r -w "household" government
 government/Env_Prot_Agen/jeffordslieberm.txt:Overall costs, measured by the decline in household
