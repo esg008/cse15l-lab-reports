@@ -1,6 +1,4 @@
 # Part 1: Bugs
-
-
 * Failure-inducing input
   ```java
     @Test
@@ -19,7 +17,6 @@
     assertArrayEquals(new int []{10}, input);
   }
   ```
-
 <img src="ArrayListTest-SS.png" alt="Test Results" width="550"/>
 
 **Chosen Bug:** 
@@ -43,18 +40,15 @@ static void reverseInPlace(int[] arr) {
     }
   }
 ```
-
 - The first implementation would modify the array in the loop which ended up just replacing the first values with the ending values. The fix creates a new copy of the original array that stores original values before reversing. Then iterates through the second copy to effectively reverse the order.
 
 # Part 2: Researching Commands
-
 ## **`grep` command**
 
  ```
 $ grep -c Honored grep-gov.txt
   1
 ```
-
 ```
 $ grep -r -c "and" government
 government/About_LSC/Comments_on_semiannual.txt:113
@@ -70,7 +64,6 @@ government/About_LSC/CONFIG_STANDARDS.txt:103
 $ grep -w "household" media-gov.txt
 government/Gen_Account_Office/d01591sp.txt:Median elderly household income (dollars)
 ```
-
 ```
 $ grep -r -w "household" government
 government/Env_Prot_Agen/jeffordslieberm.txt:Overall costs, measured by the decline in household
@@ -107,7 +100,6 @@ grep: government: Is a directory
 9:government/Gen_Account_Office/d01591sp.txt:Note: Median incomes for each quintile are GAO estimates. Social
 11:government/Post_Rate_Comm/Cohenetal_DeliveryCost.txt:Medium = 50% Quartile or Median; and High = 75% Quartile.
 ```
-
 ```
 $ grep -R -n "Ginsburg" government
 government/Media/Hard_to_Get.txt:17:U.S. Supreme Court Justice Ruth Bader Ginsburg has estimated
@@ -115,11 +107,9 @@ government/Media/Retirement_Has_Its_Appeal.txt:12:Two years ago, former Middlese
 government/Media/Retirement_Has_Its_Appeal.txt:16:Ginsburg, recalling that day's conversation. Having reached the
 government/Media/Retirement_Has_Its_Appeal.txt:22:already Ginsburg has some of the city's top lawyers working for
 ```
-
 - This command `grep -n` prints out files with the given string and also provides their line number.
 
 - To not repeat the same thing, the grep command and its different options make file searching easier and faster since its searching for patterns in the files.
-
 
   ---
    Sources used: [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
