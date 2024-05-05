@@ -64,7 +64,7 @@ government/About_LSC/CONFIG_STANDARDS.txt:103
 .....
 ```
 
-  - This command `grep -c` is searching for files that have the given string and counts its occurences.
+  - This command `grep -c` is searching for files that have the given string and counts its occurences. This is useful when you have a lot of files and need to look for a specifc file (it helps you narrow down the files) which makes it easier to find.
  
 ```
 $ grep -w "household" media-gov.txt
@@ -117,6 +117,14 @@ government/Media/Retirement_Has_Its_Appeal.txt:22:already Ginsburg has some of t
 ```
 
 - This command `grep -n` prints out files with the given string and also provides their line number.
+
+- To not repeat the same thing, the grep command and its different options make file searching easier and faster since its searching for patterns in the files.
+
+
+  ---
+   Sources used: [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+
+
 
 
 
