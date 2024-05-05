@@ -64,7 +64,7 @@ government/About_LSC/CONFIG_STANDARDS.txt:103
 .....
 ```
 
-  - This command `grep -c` is searching for files that have the goven string and counts its appearances.
+  - This command `grep -c` is searching for files that have the goven string and counts its occurences.
  
 ```
 $ grep -w "household" media-gov.txt
@@ -80,7 +80,46 @@ government/Env_Prot_Agen/tech_adden.txt:estimating equation also included househ
 ....
 ```
 
-- The command `grep -w` searches for files that have a specific word in them.
+- The command `grep -w` prints for files that have a specific word in them.
+
+```
+$ grep -i -v "media" gov-results.txt
+government/
+government/About_LSC
+government/About_LSC/Protocol_Regarding_Access.txt  
+government/Env_Prot_Agen/nov1.txt
+government/Post_Rate_Comm/Mitchell_6-17-Mit.txt
+...
+```
+
+```
+$ grep -i -v "media" government
+grep: government: Is a directory
+```
+
+- This command `grep -v` prints all the files except those that include the given string. So, it wont print out anything with the string in the files.
+
+ ```
+  $ grep -n "Median" media-gov.txt
+6:government/Env_Prot_Agen/tech_adden.txt:Minor Restricted Activity Days $48 per case3 Median WTP estimate
+7:government/Gen_Account_Office/d01591sp.txt:Median family net worth (dollars) 600,000
+8:government/Gen_Account_Office/d01591sp.txt:Median elderly household income (dollars)
+9:government/Gen_Account_Office/d01591sp.txt:Note: Median incomes for each quintile are GAO estimates. Social
+11:government/Post_Rate_Comm/Cohenetal_DeliveryCost.txt:Medium = 50% Quartile or Median; and High = 75% Quartile.
+```
+
+```
+$ grep -R -n "Ginsburg" government
+government/Media/Hard_to_Get.txt:17:U.S. Supreme Court Justice Ruth Bader Ginsburg has estimated
+government/Media/Retirement_Has_Its_Appeal.txt:12:Two years ago, former Middlesex County Judge Edward Ginsburg and
+government/Media/Retirement_Has_Its_Appeal.txt:16:Ginsburg, recalling that day's conversation. Having reached the
+government/Media/Retirement_Has_Its_Appeal.txt:22:already Ginsburg has some of the city's top lawyers working for
+```
+
+- This command `grep -n` prints out files with the given string and also provides their line number.
+
+
+
 
 
 
