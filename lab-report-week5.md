@@ -50,13 +50,32 @@ static void reverseInPlace(int[] arr) {
 
 **`grep`**
 
-`$ grep -c "biomed" find-results.txt
-838`
+- `$ grep -c Honored grep-gov.txt
+  1`
 
-`$ grep -c "biomed" technical/plos
-grep: technical/plos: Is a directory
-0`
+- `$ grep -r -c "and" government
+government/About_LSC/Comments_on_semiannual.txt:113
+government/About_LSC/commission_report.txt:703       
+government/About_LSC/conference_highlights.txt:89    
+government/About_LSC/CONFIG_STANDARDS.txt:103
+.....`
 
+  - This command `grep -c` is searching for files that have the goven string and counts its appearances.
+ 
+
+
+
+- `$ grep -w "household" media-gov.txt
+government/Gen_Account_Office/d01591sp.txt:Median elderly household income (dollars)`
+
+- `$ grep -r -w "household" government
+government/Env_Prot_Agen/jeffordslieberm.txt:Overall costs, measured by the decline in household
+government/Env_Prot_Agen/jeffordslieberm.txt:ways. The first is as a change in household personal consumption,
+government/Env_Prot_Agen/jeffordslieberm.txt:for household demand, production of goods, motor vehicles,   
+government/Env_Prot_Agen/tech_adden.txt:estimating equation also included household income as an
+....`
+
+- The command `grep -w` searches for files that have a specific word in them.
 
 
 
