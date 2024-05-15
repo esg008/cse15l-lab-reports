@@ -17,7 +17,7 @@
     assertArrayEquals(new int []{10}, input);
   }
   ```
-<img src="TestResults.png" alt="Test Results" width="550"/>
+<img src="TestResults.png" alt="Test Results" width="500"/>
 
 **Chosen Bug:** 
 * Before
