@@ -11,16 +11,20 @@
 
 
 **Step 6: Running Failing Tests**
-* Keys Pressed: bash `<space>` test.sh `<enter>`
+* Keys Pressed: `bash <space> test.sh <enter>`
 <img src="run_failing_tests.png" alt="Test Results" width="400"/>
 
 **Step 7: Editing File**
-* Keys Pressed: vim `<space>` ListExamples.java `<enter>`. Then, `<up><up><up><up><up><up>`, `<right><right><right><right><right><right><right><right><right><right><right><right><right><right><right>`, i, `<backspace>`, 2. Then to save and exit vim, `esc`, `<shift>` + `:`, `wq`
+* Keys Pressed: `vim <space> ListExamples.java <enter>. `Then, `<up><up><up><up><up><up>`, `<right><right><right><right><right><right><right><right><right><right><right><right><right><right><right>`, `i`, `<backspace>, 2.` Then to save and exit vim, `esc`, `<shift>` + `:`, `wq`
 <img src="file_edit.png" alt="Test Results" width="400"/>
 
 **Step 6: Running Failing Tests**
-* Keys Pressed: bash 
+* Keys Pressed: `bash test.sh` was 2 up in the search history, so I used the up arrow to acces it and hit `<enter>`.
 <img src="run_fixed_tests.png" alt="Test Results" width="400"/>
+
+**Step 6: Git add, commint, and push**
+* Keys Pressed: 
+<img src="git_add_commit_push.png" alt="Test Results" width="400"/>
 
 
 
