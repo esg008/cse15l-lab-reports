@@ -23,7 +23,7 @@
 <img src="run_fixed_tests.png" alt="Test Results" width="400"/>
 
 **Step 6: Git add, commint, and push**
-* Keys Pressed: 
+* Keys Pressed: None of these commands were in my recent search history so i had to type them out since that would be faster. So I did, `git add . <enter>`, then `git commit -m "errors fixed"` and finally to make the changes in the GitHub repo `git push origin main`
 <img src="git_add_commit_push.png" alt="Test Results" width="400"/>
 
 
