@@ -2,7 +2,9 @@
 
 **Step 4: Logging into ieng6**
 
-<img src="log_in_ieng6.png" alt="Test Results" width="400"/>
+* Keys Pressed: To log into ieng6 i simply typed the `ssh` command followed by my login info 
+
+<img src="ssh.login.png" alt="Test Results" width="400"/>
 
 **Step 5: Cloning Repo**
 * Keys Pressed: git `<space>` clone `<space> CTRL-V` git@github.com:esg008/lab7.git <enter>. 
