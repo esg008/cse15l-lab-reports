@@ -30,13 +30,13 @@
 
  **File and Directory Structre: (File: ArrayExamples.java)**
 
-<img src="filestructre.png" alt=" " width="270"/>
+<img src="filestructre.png" alt=" " width="250"/>
 
 **Contents Of each file before fix**
 
 <img src="before11.png" alt=" " width="350"/>
 
-- <img src="beforetests2.png" alt=" " width="350"/>
+- <img src="beforetest2.png" alt=" " width="350"/>
 
 
 
