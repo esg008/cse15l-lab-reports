@@ -6,7 +6,7 @@
     Im guessing its not properly getting reveresed towrds sceond half
     of array. Could I get help on how i can possibly find a solution?
 
-  <img src="student_piazza-post.png" alt="Test Results" width="350"/>
+  <img src="student_piazza-post.png" alt="Test Results" width="325"/>
 
   
 
@@ -25,7 +25,7 @@
     what was happening. The original method was overwiting the elements
     of the array before they were swapped. Thank You for the help!
 
- <img src="feedback_ss.png" alt="Test Results" width="350"/>
+ <img src="feedback-ss.png" alt=" " width="325"/>
 
 
  **File and Directory Structre: (File: ArrayExamples.java)
