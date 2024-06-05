@@ -29,13 +29,10 @@
 
 
  **File and Directory Structre: (File: ArrayExamples.java)**
-         -workspace\
-             -lab3\
-                 -ArrayExamples.java\
-                 -ArrayTests.java
-                 -FileExample.java
-                 -LinkedListExample
-                 -ListExamples
+   <img src="Screenshot 2021-06-05 162343.png" alt=" " width="325"/>
+
+
+         
 
     
 
