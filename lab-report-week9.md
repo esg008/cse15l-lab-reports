@@ -28,10 +28,10 @@
  <img src="feedback-ss.png" alt=" " width="325"/>
 
 
- **File and Directory Structre: (File: ArrayExamples.java)
-         -workspace
-             -lab3
-                 -ArrayExamples.java
+ **File and Directory Structre: (File: ArrayExamples.java)**
+         -workspace\
+             -lab3\
+                 -ArrayExamples.java\
                  -ArrayTests.java
                  -FileExample.java
                  -LinkedListExample
