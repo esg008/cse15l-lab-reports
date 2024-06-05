@@ -13,10 +13,10 @@ of array. Could I get help on how i can possibly find a solution?
 
 **TA's Response:**
 
-Hi, the tests might not be giving enough information to figure out 
-what eaxctly is happening. To get a better idea of the methods
-functionality, try writing a print statement for the test to see the
-whole output. Hopefully this helps you find a solution, otherwise
+Hi, the tests might not be giving enough information to figure out\
+what eaxctly is happening. To get a better idea of the methods\
+functionality, try writing a print statement for the test to see the\
+whole output. Hopefully this helps you find a solution, otherwise\
 you can reach out again!
 
 ---
