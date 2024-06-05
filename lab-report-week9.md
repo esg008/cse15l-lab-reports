@@ -33,13 +33,18 @@
 
 ---
 
-**Contents Of each file before fix**
+**Contents of each file before fix**
 
 <img src="before11.png" alt=" " width="350"/>
 
 <img src="beforetest2.png" alt=" " width="350"/>
 
 ---
+
+**Commands to trigger bug**
+
+`javac -cp ".;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar" *.java`
+`java -cp ".;lib/junit-4.13.2.jar;lib/hamcrest-core-1.3.jar" org.junit.runner.JUnitCore ArrayTests`
 
 
 
