@@ -8,8 +8,7 @@
 
   <img src="student_piazza-post.png" alt="Test Results" width="325"/>
 
-  
-
+---
 
 **TA's Response:**
     Hi, the tests might not be giving enough information to figure out 
@@ -18,7 +17,7 @@
     whole output. Hopefully this helps you find a solution, otherwise 
     you can reach out again!
 
-
+---
 
 **Students Reply:**
     Alright, I added the print statement which did help me figure out
@@ -27,16 +26,20 @@
 
  <img src="feedback-ss.png" alt=" " width="325"/>
 
-
+ ---
  **File and Directory Structre: (File: ArrayExamples.java)**
 
 <img src="filestructre.png" alt=" " width="250"/>
+
+---
 
 **Contents Of each file before fix**
 
 <img src="before11.png" alt=" " width="350"/>
 
 <img src="beforetest2.png" alt=" " width="350"/>
+
+---
 
 
 
