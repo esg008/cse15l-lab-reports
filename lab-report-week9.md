@@ -29,7 +29,7 @@
 
 
  **File and Directory Structre: (File: ArrayExamples.java)**
-   <img src="Screenshot 2021-06-05 162343.png" alt=" " width="325"/>
+   <img src="filestructre.png" alt=" " width="325"/>
 
 
          
