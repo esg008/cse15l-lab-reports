@@ -28,9 +28,14 @@
  <img src="feedback_ss.png" alt="Test Results" width="350"/>
 
 
- **File and Directory Structre**
-
-        -oiho23r
+ **File and Directory Structre: (File: ArrayExamples.java)
+         -workspace
+             -lab3
+                 -ArrayExamples.java
+                 -ArrayTests.java
+                 -FileExample.java
+                 -LinkedListExample
+                 -ListExamples
 
     
 
