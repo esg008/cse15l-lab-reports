@@ -60,11 +60,11 @@ array onto the new array. Reverse elements from the new array and assign to the 
 **Reflection**
 
 
-In the second half of the quarter I've learned a lot of new skills that have allowed me to better\
-understand how to use different software tools in efficient ways. Although I found all topics and\
-tools interesting, one thing that I have been using the most recently is vim. At first I\
-underestimated vims efficiency. I didn't think it would be any better than editing and navigating\
-through files normally. Although it may not seem like a lot, using vim has changed the game for me!\
+In the second half of the quarter I've learned a lot of new skills that have allowed me to better
+understand how to use different software tools in efficient ways. Although I found all topics and
+tools interesting, one thing that I have been using the most recently is vim. At first I
+underestimated vims efficiency. I didn't think it would be any better than editing and navigating
+through files normally. Although it may not seem like a lot, using vim has changed the game for me!
 Another thing I found cool was creating the URL servers from week 2 and getting to know how they worked. 
 
 
