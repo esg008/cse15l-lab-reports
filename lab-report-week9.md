@@ -4,7 +4,7 @@
  
 Hi, I am having trouble with my code. I am trying to test the\
 reverseInPlace method but my method is not functioning as expected.\
-Im guessing its not properly getting reveresed towards the second half\
+Im guessing its not properly getting reversed towards the second half\
 of array. Could I get help on how to find a solution for this??
 
   <img src="student_piazza-post.png" alt="Test Results" width="325"/>
@@ -14,10 +14,10 @@ of array. Could I get help on how to find a solution for this??
 **TA's Response:**
 
 Hi, the tests might not be giving enough information to figure out\
-what eaxctly is happening. To get a better idea of the methods\
+what exactly is happening. To get a better idea of the methods\
 functionality, try writing a print statement for the test to see the\
 whole output. Hopefully this helps you find a solution, otherwise\
-you can reach out again!
+feel free to come to OH!
 
 ---
 
