@@ -4,8 +4,8 @@
  
 Hi, I am having trouble with my code. I am trying to test the\
 reverseInPlace method but my method is not functioning as expected.\
-Im guessing its not properly getting reveresed towrds sceond half\
-of array. Could I get help on how i can possibly find a solution?
+Im guessing its not properly getting reveresed towards the second half\
+of array. Could I get help on how to find a solution for this??
 
   <img src="student_piazza-post.png" alt="Test Results" width="325"/>
 
@@ -24,7 +24,7 @@ you can reach out again!
 **Students Reply:**
     
 Alright, I added the print statement which did help me figure out\
-what was happening. The original method was overwiting the elements\
+what was happening. It seems the original method was overwiting the elements\
 of the array before they were swapped. Thank You for the help!
 
  <img src="feedback-ss.png" alt=" " width="325"/>
@@ -60,14 +60,12 @@ array onto the new array. Reverse elements from the new array and assign to the 
 **Reflection**
 
 
-
-
 In the second half of the quarter Ive learned a lot of new skills that have allowed me to better\
 undesrtand how to use different software tools in efficient ways. Although I found all topics and\
 tools interesting, one thing that I have been using the most recently is vim. At first I\
-underestimated how much more efficient it could be than navigating and editing thorugh files\
-normally. Although it may not seem like a lot, using vim has changed the game for me! Another thing\
-I found cool was creating the URL servers from week 2 and getting to know how they worked. 
+underestimated vims effieciency. I did'nt think it would be any better than editing and navigating\
+through files normally. Although it may not seem like a lot, using vim has changed the game for me!\
+Another thing I found cool was creating the URL servers from week 2 and getting to know how they worked. 
 
 
 
