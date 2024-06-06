@@ -49,6 +49,13 @@ of the array before they were swapped. Thank You for the help!
 `javac -cp ".;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar" *.java`\
 `java -cp ".;lib/junit-4.13.2.jar;lib/hamcrest-core-1.3.jar" org.junit.runner.JUnitCore ArrayTests`
 
+---
+
+**Fixing the code**
+
+To fix this, create a new empty array and then copy elements of the original\
+array onto the copy. Reverse elements from the new array and assign to the old array.
+
 
 
 
