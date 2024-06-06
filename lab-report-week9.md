@@ -53,8 +53,8 @@ of the array before they were swapped. Thank You for the help!
 
 **Fixing the code**
 
-To fix this, create a new empty array and then copy elements of the original\
-array onto the copy. Reverse elements from the new array and assign to the old array.
+To fix this, create a new empty array. Then copy elements of the original\
+array onto the new array. Reverse elements from the new array and assign to the old array.
 
 
 
