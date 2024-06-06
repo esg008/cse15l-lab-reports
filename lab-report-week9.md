@@ -57,6 +57,19 @@ To fix this, create a new empty array. Then copy elements of the original\
 array onto the new array. Reverse elements from the new array and assign to the old array.
 
 
+**Reflection**
+
+
+
+
+In the second half of the quarter Ive learned a lot of new skills that have allowed me to better\
+undesrtand how to use different software tools in efficient ways. Although I found all topics and\
+tools interesting, one thing that I have been using the most recently is vim. At first I\
+underestimated how much more efficient it could be than navigating and editing thorugh files\
+normally. Although it may not seem like a lot, using vim has changed the game for me! Another thing\
+I found cool was creating the URL servers from week 2 and getting to know how they worked. 
+
+
 
 
          
