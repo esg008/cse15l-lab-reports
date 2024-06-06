@@ -56,7 +56,7 @@ of the array before they were swapped. Thank You for the help!
 To fix this, create a new empty array. Then copy elements of the original\
 array onto the new array. Reverse elements from the new array and assign to the old array.
 
-
+---
 **Reflection**
 
 
